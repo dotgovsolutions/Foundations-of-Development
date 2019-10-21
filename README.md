@@ -9,11 +9,11 @@ This course is an introduction to core technologies used in software development
 * Use GIT to work individually
 * Use GIT to work in a team
 ## Course Modules
-* Windows 10 and PowerShell
-* Docker and Containerization
-* Linux, Bash, and Docker
-* Introduction to Version Control Using GIT
-* GIT Collaboration Using GitHub
+* [Windows 10 and PowerShell](https://github.com/dotgovsolutions/Windows-10-and-Powershell)
+* [Docker and Containerization](https://github.com/dotgovsolutions/Docker-and-Containerization)
+* [Linux, Bash, and Docker](https://github.com/dotgovsolutions/Linux-Bash-and-Docker)
+* [Introduction to Version Control Using GIT](https://github.com/dotgovsolutions/Version-Control-and-GIT)
+* [GIT Collaboration Using GitHub](https://github.com/dotgovsolutions/GIT-Collaboration)
 ## Course Introduction
 ## Course Prerequisites
 * None
